@@ -98,3 +98,9 @@ ul{
 li{
   margin: 18px 0;
 }
+
+blockquote{
+  font-family: 'Girassol', cursive;
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+}
