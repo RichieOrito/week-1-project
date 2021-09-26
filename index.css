@@ -87,3 +87,14 @@ img {
   padding: 10px;
   background: #9ef0f0;
 }
+
+ul{
+  max-width:600px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  line-height: 1.8;
+}
+
+li{
+  margin: 18px 0;
+}
