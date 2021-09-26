@@ -32,3 +32,13 @@ h1{
 h3{
   font-size: 3.25rem;
 }
+
+a{
+  color: #4589ff; /*Blue 50*/
+}
+a:visited{
+  color: #a2191f; /*Red 70*/
+}
+a:hover{
+  color: #21272a; /*Cool gray 90*/
+}
