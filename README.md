@@ -16,4 +16,6 @@ richard.omondi@student.moringaschool.com
 # Sketched design of the website
 ![IMG_20210926_174232](https://user-images.githubusercontent.com/48394582/134821907-3b961b5a-f73f-44f3-8e1f-58ddf1f09ade.jpg)- this is a sketch of my design.
 # This is my gh-page link
-[link](richieorito.github.io/week-1-project/)
+[link](https://richieorito.github.io/week-1-project/)
+# Copyright
+©Richie Orito,2021
